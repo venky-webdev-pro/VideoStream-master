@@ -35,8 +35,10 @@ A responsive video streaming platform built with **React.js**, **Tailwind CSS**,
 - Optimizing UI with Tailwind CSS and React state management
 - Deploying with Vercel and using Git for version control
 
+
 ## 🤝 Let's Connect
 
-💼 [LinkedIn]((https://www.linkedin.com/in/venkatalakshmi-nimmana-linpro/))  
-📧 nimmanavenkatalakshmi93@gmail.com
+💼 [LinkedIn Profile](https://www.linkedin.com/in/venkatalakshmi-nimmana-linpro/)  
+📧 [nimmanavenkatalakshmi93@gmail.com](mailto:nimmanavenkatalakshmi93@gmail.com)
+
 
