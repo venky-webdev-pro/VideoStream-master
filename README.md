@@ -4,8 +4,9 @@ A responsive video streaming platform built with **React.js**, **Tailwind CSS**,
 
 ## 🚀 Live Demo
 
-🔗 Live Demo: [video-stream-master-sage.vercel.app](https://video-stream-master-sage.vercel.app)  
-💻 GitHub: [github.com/yourusername/video-streaming-app](https://github.com/yourusername/video-streaming-app)
+🔗 [Live Demo](https://video-stream-master-sage.vercel.app/)  
+💻 [GitHub Repository](https://github.com/venky-webdev-pro/VideoStream-master)
+
 
 
 ## 🛠️ Tech Stack
