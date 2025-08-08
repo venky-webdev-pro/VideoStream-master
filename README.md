@@ -26,7 +26,16 @@ A responsive video streaming platform built with **React.js**, **Tailwind CSS**,
 - ⚡ Fast build and load times with Vite
 - 🚀 CI/CD and live deployment via Vercel
 
-## 📷 Screenshots
+## 📸 Screenshots
+
+### Desktop View
+![Home Page](/screenshots/home-desktop.png)
+![Projects Page](/screenshots/projects-desktop.png)
+
+### Mobile View
+![Home Page Mobile](/screenshots/home-mobile.png)
+![Projects Page Mobile](/screenshots/projects-mobile.png)
+
 
 
 
